@@ -9,3 +9,7 @@ Week 0 - Explore Journal
 - Created MUD as docker image
 - Played through MUD
 - Install nvm
+- Executed the visualizer with npm run dev from week0_explore/preview/web directory and accessed http://localhost:5174/
+- Installed UV with sudo snap install astral-uv --classic
+- Converted the world with ./bin/convert-world from week0_explore directory
+- Once conversion completed, ran npm run dev from week0_explore/preview/web directory in order to refresh the World Preview web page
