@@ -1,4 +1,4 @@
-Week 0 - Explore Journal
+Week 0 - Explore Journal ** being relocated in \docs\journal\0_preweek.md and reorganization of information in progress.** 
 
 - Installed Ubuntu WSL in Windows 11
 - Installed git
