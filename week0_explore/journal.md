@@ -1,4 +1,4 @@
-Week 0 - Explore Journal ** being relocated in \docs\journal\0_preweek.md and reorganization of information in progress.** 
+Week 0 - Explore Journal ** being relocated in \docs\journal\0_preweek.md and reorganization of information in progress. This is due to submitting the preweek form without having completed the technical journaling document, due to running behind.** 
 
 - Installed Ubuntu WSL in Windows 11
 - Installed git
