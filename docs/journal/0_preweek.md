@@ -18,3 +18,5 @@ Week 0 - Explore Journal ** PENDING TO REORGANIZA ACCORDING TO PROPER FORMAT**
 - In this folder, created AGENTS.md file (for use with Google's Antigrativy IDE) in, as well as indicated the agent to use memory by using the player.md and world.md in the /data folder.
 - Instructed the model with "Can you find the bakery and tell me whats on the menu."
 - Antigrativy's Gemini 3.5 Flash found the results instantly.
+- Created play_mud skill and executed it to connect to the MUD and locate the bakery's menu items.
+- 

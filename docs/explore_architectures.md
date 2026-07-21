@@ -29,3 +29,22 @@ efficiency.
 
 #### Observations:
 Using the AGENTS.md file and using the command "Can you find the bakery and tell me whats on the menu.", Antigravity / Gemini Flash 3.5 found the results right away, without issues. 
+
+Use coding harness for cofing, and for specialized agents make your own loop.
+
+ ## 2. Agents Skills driven by main agent eg ~/.skills
+
+ A very common way to drive specific functionality via Agent Skills which is an open format for agents adopted by many coding harnesses and agent SDKs.
+
+ We should create a skill that has its own script to help it connecto to the MUD. It should manage its own data, such as player data an world data.
+
+ ### Technical Observations
+
+ Using the official Google Antigravity IDE with Gemini 3.5 Flash, we successfully created a skill that could reliably connect to the MUD, retrieve the desired information and play the MUD.
+ 
+
+ ### High Level Observations
+
+For simple and more advanced tasks, Antigravity Agent skill architecture works well out of the box, does not require much more than a good prompt and some good examples of how to play the MUD game. 
+
+ 
